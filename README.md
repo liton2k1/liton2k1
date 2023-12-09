@@ -1,6 +1,5 @@
 <img src="https://i.postimg.cc/yYD8DLrN/banner.png">
-<h1 align="center">Hi 👋, I'm Liton</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2023/01/MERN-Stack.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liton61&label=Profile%20views&color=0e75b6&style=flat" alt="liton61" /> </p>
