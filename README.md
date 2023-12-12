@@ -29,7 +29,5 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liton61&theme=dracula" width="400"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liton61&theme=dracula&exclude={exclude}" width="400"/>
 </div>
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liton61&theme=dracula" width="805"/>
-</div>
+
 
