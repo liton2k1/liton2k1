@@ -62,3 +62,34 @@ I’m a passionate MERN Stack developer skilled in creating efficient, scalable,
 📊 GitHub Stats
 <div align="center"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=liton61&theme=radical" alt="GitHub Streak" width="805"/></a> </div> <div align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liton61&theme=dracula" width="400"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liton61&theme=dracula&exclude={exclude}" width="400"/> </div> <div align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liton61&theme=dracula" width="805"/> </div>
 
+<div align="center">
+  <!-- Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=liton61&theme=radical" alt="GitHub Streak" width="805"/>
+  </a>
+</div>
+
+<div align="center">
+  <!-- Stats Card -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liton61&theme=dracula" width="400"/>
+  
+  <!-- Repos Per Language -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liton61&theme=dracula&exclude={exclude}" width="400"/>
+</div>
+
+<div align="center">
+  <!-- Profile Details -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liton61&theme=dracula" width="805"/>
+</div>
+
+<div align="center">
+  <!-- Activity Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=liton61&theme=github&hide_border=true" width="100%"/>
+</div>
+
+<div align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-top-languages.vercel.app/api/top-langs?username=liton61&langs_count=10&theme=radical" width="500"/>
+</div>
+
+
