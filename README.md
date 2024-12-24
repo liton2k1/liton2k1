@@ -53,7 +53,7 @@ I’m a passionate MERN Stack developer skilled in creating efficient, scalable,
   <img src="https://img.shields.io/badge/Mongoose-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongoose" />
 </p>
 
-### Database & Tools
+### Database
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
