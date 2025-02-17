@@ -45,12 +45,14 @@ I’m a passionate MERN Stack developer skilled in creating efficient, scalable,
   <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=auth0&logoColor=white" alt="NextAuth.js" />
 </p>
 
-
 ### Backend Development
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Mongoose-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ### Database
@@ -58,6 +60,25 @@ I’m a passionate MERN Stack developer skilled in creating efficient, scalable,
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
-📊 GitHub Stats
-<div align="center"> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=liton61&theme=radical" alt="GitHub Streak" width="805"/></a> </div> <div align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liton61&theme=dracula" width="400"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liton61&theme=dracula&exclude={exclude}" width="400"/> </div> <div align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liton61&theme=dracula" width="805"/> </div>
+## 📊 GitHub Stats
+<div align="center"> 
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=liton61&theme=radical" alt="GitHub Streak" width="805"/>
+  </a> 
+</div> 
+<div align="center"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liton61&theme=dracula" width="400"/> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liton61&theme=dracula&exclude={exclude}" width="400"/> 
+</div> 
+<div align="center"> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liton61&theme=dracula" width="805"/> 
+</div>
