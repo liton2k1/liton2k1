@@ -11,10 +11,8 @@
   </a>
 </p>
 
-
 ## 🌟 About Me
 I’m a passionate MERN Stack developer skilled in creating efficient, scalable, and user-centric web applications. With expertise in technologies like React, Node.js, Express, and MongoDB, I specialize in building full-stack solutions that combine seamless front-end interfaces with robust back-end systems. I thrive on learning advanced techniques, collaborating on innovative projects, and continuously enhancing my craft. Let’s connect and create something extraordinary!
-
 
 ## 🛠️ Skills & Tools
 
@@ -52,14 +50,15 @@ I’m a passionate MERN Stack developer skilled in creating efficient, scalable,
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Mongoose-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
 ### Database
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 ### Programming Languages
