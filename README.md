@@ -1,4 +1,4 @@
-<img src="https://ibb.co.com/p9SvfTs" alt="Banner" align="center" /> 
+<img src="https://i.postimg.cc/fTX2vZkp/Black-and-Red-Gradient-Professional-Linked-In-Banner.png" alt="Banner" align="center" /> 
 <p align="center">
   <a href="mailto:litonmia2k1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
