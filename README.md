@@ -12,7 +12,7 @@
 </p>
 
 ## 🌟 About Me
-I’m a passionate MERN Stack developer skilled in creating efficient, scalable, and user-centric web applications. With expertise in technologies like React, Node.js, Express, and MongoDB, I specialize in building full-stack solutions that combine seamless front-end interfaces with robust back-end systems. I thrive on learning advanced techniques, collaborating on innovative projects, and continuously enhancing my craft. Let’s connect and create something extraordinary!
+I’m a Full Stack developer passionate about building efficient and user-friendly web applications. I work with technologies like JavaScript, TypeScript, React.js, Next.js, Node.js, Express, MongoDB, Mongoose, PostgreSQL, and Prisma to create full-stack solutions that combine smooth front-end experiences with robust back-end systems.
 
 ## 🛠️ Skills & Tools
 
