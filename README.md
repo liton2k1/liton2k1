@@ -12,7 +12,9 @@
 </p>
 
 ## 🌟 About Me
+<p style="text-align: justify;">
 I'm a Full Stack Developer who loves building web applications that work well and feel great to use. I work across the entire stack, creating clean, responsive interfaces with React, Next.js, and TypeScript on the front end, while building solid back-end systems with Node.js, Express, MongoDB, and PostgreSQL. What gets me excited is solving problems, writing efficient code, and creating features that actually make a difference for users. I'm always learning and exploring new technologies to keep improving my craft. If you're working on something interesting or want to connect about development opportunities, feel free to reach out!
+</p>
 
 ## 🛠️ Skills & Tools
 
