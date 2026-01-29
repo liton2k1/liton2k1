@@ -12,7 +12,7 @@
 </p>
 
 ## 🌟 About Me
-I’m a Full Stack developer passionate about building efficient and user-friendly web applications. I work with technologies like JavaScript, TypeScript, React.js, Next.js, Node.js, Express, MongoDB, Mongoose, PostgreSQL, and Prisma to create full-stack solutions that combine smooth front-end experiences with robust back-end systems.
+I'm a Full Stack Developer who loves building web applications that work well and feel great to use. I work across the entire stack, creating clean, responsive interfaces with React, Next.js, and TypeScript on the front end, while building solid back-end systems with Node.js, Express, MongoDB, and PostgreSQL. What gets me excited is solving problems, writing efficient code, and creating features that actually make a difference for users. I'm always learning and exploring new technologies to keep improving my craft. If you're working on something interesting or want to connect about development opportunities, feel free to reach out!
 
 ## 🛠️ Skills & Tools
 
