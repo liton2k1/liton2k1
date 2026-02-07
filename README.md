@@ -73,15 +73,16 @@ I'm a Full Stack Developer who loves building web applications that work well an
 </p>
 
 ## 📊 GitHub Stats
-<div align="center"> 
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=liton2k1&theme=radical" alt="GitHub Streak" width="805"/>
-  </a> 
-</div> 
-<div align="center"> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=liton2k1&theme=dracula" width="400"/> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liton2k1&theme=dracula&exclude={exclude}" width="400"/> 
-</div> 
-<div align="center"> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liton2k1&theme=dracula" width="805"/> 
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=liton2k1&theme=radical" width="805"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liton2k1&theme=dracula" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liton2k1&theme=dracula" width="400"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=liton2k1&theme=dracula" width="805"/>
 </div>
