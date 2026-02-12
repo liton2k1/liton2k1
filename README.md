@@ -76,7 +76,7 @@ I'm a Full Stack Developer who loves building web applications that work well an
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=liton2k1&theme=radical" width="805"/>
-</div>
+</div> 
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liton2k1&theme=dracula" width="400"/>
