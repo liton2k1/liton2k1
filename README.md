@@ -79,8 +79,8 @@ I'm a Full Stack Developer who loves building web applications that work well an
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liton2k1&theme=dracula" width="500"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liton2k1&theme=dracula" width="500"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liton2k1&theme=dracula" width="490"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=liton2k1&theme=dracula" width="490"/>
 </div>
 
 <div align="center">
