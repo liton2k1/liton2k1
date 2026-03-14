@@ -72,7 +72,7 @@ I'm a Full Stack Developer who loves building web applications that work well an
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=liton2k1&theme=radical" width="1000"/>
